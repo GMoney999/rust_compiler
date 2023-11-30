@@ -1,6 +1,7 @@
 mod lexer;
 mod tests;
 mod utils;
+mod error;
 
 
 use std::env;
